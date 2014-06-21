@@ -1,4 +1,4 @@
-open-source-web-design-school
+Open Source Web Design School
 =============================
 
 #Objectives
